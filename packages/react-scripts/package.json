@@ -1,6 +1,6 @@
 {
   "name": "@insidersbyte/react-scripts",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "Configuration and scripts for Create React App.",
   "repository": "insidersbyte/create-react-app",
   "license": "MIT",
